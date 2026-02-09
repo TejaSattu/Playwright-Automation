@@ -1,0 +1,74 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - text: SHOP
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - generic:
+        - generic:
+          - generic:
+            - link "Go back" [ref=e6] [cursor=pointer]:
+              - /url: /list/mens_tshirts
+              - button "Go back" [ref=e7]:
+                - generic [ref=e8]:
+                  - img
+            - link "SHOP Home" [ref=e9] [cursor=pointer]:
+              - /url: /
+              - text: SHOP
+            - 'link "Shopping cart: 0 items" [ref=e11] [cursor=pointer]':
+              - /url: /cart
+              - 'button "Shopping cart: 0 items" [ref=e12]':
+                - generic [ref=e13]:
+                  - img
+        - generic [ref=e16]:
+          - generic:
+            - link "Men's Outerwear" [ref=e19] [cursor=pointer]:
+              - /url: /list/mens_outerwear
+            - link "Ladies Outerwear" [ref=e22] [cursor=pointer]:
+              - /url: /list/ladies_outerwear
+            - link "Men's T-Shirts" [ref=e25] [cursor=pointer]:
+              - /url: /list/mens_tshirts
+            - link "Ladies T-Shirts" [ref=e28] [cursor=pointer]:
+              - /url: /list/ladies_tshirts
+  - main [ref=e29]:
+    - generic [ref=e31]:
+      - img "Android Soccer T-Shirt" [ref=e33]
+      - generic [ref=e34]:
+        - heading "Android Soccer T-Shirt" [level=1] [ref=e35]
+        - generic [ref=e36]: $15.20
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - generic: Size
+            - combobox "Size" [ref=e39]:
+              - option "XS"
+              - option "S"
+              - option "M"
+              - option "L" [selected]
+              - option "XL"
+            - generic [ref=e40]: ▼
+          - generic [ref=e41]:
+            - generic: Quantity
+            - combobox "Quantity" [ref=e42]:
+              - option "1" [selected]
+              - option "2"
+              - option "3"
+              - option "4"
+              - option "5"
+            - generic [ref=e43]: ▼
+        - generic [ref=e44]:
+          - heading "Description" [level=2] [ref=e45]
+          - paragraph [ref=e46]:
+            - text: When it comes to futbol formation, the world's most adorable robots are en pointe. Show your love for the game with this limited edition Android tee.
+            - generic [ref=e48]: "Features:"
+            - list [ref=e50]:
+              - listitem [ref=e51]: 100% cotton.
+              - listitem [ref=e52]: Made in the USA.
+              - listitem [ref=e53]: Available in navy with the Android robot design screenprinted at front.
+        - button "Add this item to cart" [ref=e55]: Add to Cart
+  - contentinfo [ref=e56]:
+    - link "Made by Polymer" [ref=e57] [cursor=pointer]:
+      - /url: https://www.polymer-project.org/3.0/toolbox/
+    - generic [ref=e58]: Demo Only
+  - generic: Android Soccer T-Shirt, loaded
+```

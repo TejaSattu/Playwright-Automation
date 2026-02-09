@@ -1,0 +1,2 @@
+Number of products: 40
+Order has been placed successfully.

@@ -1,0 +1,75 @@
+=== Test Execution Started (IST) ===
+[2/1/2026, 08:24:09] Starting test for product: Android Soccer T-Shirt
+[2/1/2026, 08:24:09] Homepage object initialized
+[2/1/2026, 08:24:09] Navigating to URL: https://shop.polymer-project.org/
+[2/1/2026, 08:24:11] Homepage loaded successfully
+[2/1/2026, 08:24:11] Validating homepage SHOP text visibility
+[2/1/2026, 08:24:11] Homepage validation result: true
+[2/1/2026, 08:24:11] Waiting for Men’s T-Shirts link to be visible
+[2/1/2026, 08:24:11] Clicking on Men’s T-Shirts
+[2/1/2026, 08:24:12] Men’s T-Shirts page loaded (network idle)
+[2/1/2026, 08:24:12] Productpage object initialized
+[2/1/2026, 08:24:12] Fetching product titles from product listing page
+[2/1/2026, 08:24:12] Number of products found: 40
+[2/1/2026, 08:24:12] Checking product: YouTube Organic Cotton T-Shirt - Grey
+[2/1/2026, 08:24:12] Checking product: Inbox - Subtle Actions T-Shirt
+[2/1/2026, 08:24:12] Checking product: Adult Android Superhero T-Shirt
+[2/1/2026, 08:24:12] Checking product: Men's Vintage Heather T-Shirt
+[2/1/2026, 08:24:12] Checking product: Basic Black T-Shirt
+[2/1/2026, 08:24:12] Checking product: Local Guides T-Shirt
+[2/1/2026, 08:24:12] Checking product: Go Gopher T-Shirt in Teal
+[2/1/2026, 08:24:12] Checking product: Android Ringspun T-Shirt - Green
+[2/1/2026, 08:24:12] Checking product: Organic Cotton Android walking with dog T-shirt
+[2/1/2026, 08:24:12] Checking product: Organic Cotton T-Shirt - Red
+[2/1/2026, 08:24:12] Checking product: Unisex Gmail T-Shirt
+[2/1/2026, 08:24:12] Checking product: Android Soccer T-Shirt
+[2/1/2026, 08:24:12] Target product matched: Android Soccer T-Shirt
+[2/1/2026, 08:24:12] Clicked on product: Android Soccer T-Shirt
+[2/1/2026, 08:24:12] Waiting for product detail page to load
+[2/1/2026, 08:24:14] Validating product detail page URL
+[2/1/2026, 08:24:14] Product detail page validation successful
+[2/1/2026, 08:24:15] Orderdetails & Payment Page object initialized
+[2/1/2026, 08:24:15] Filling checkout details
+[2/1/2026, 08:24:15] Email entered: JohnDoe@yahoo.com
+[2/1/2026, 08:24:15] Contact entered: 1234567890
+[2/1/2026, 08:24:15] Shipping address entered
+[2/1/2026, 08:24:15] City entered: Springfield
+[2/1/2026, 08:24:15] State entered: IL
+[2/1/2026, 08:24:15] ZIP entered: 62701
+[2/1/2026, 08:24:15] Checkout details filled successfully
+[2/1/2026, 08:24:15] Filling payment details
+[2/1/2026, 08:24:15] Cardholder name entered: John Doe
+[2/1/2026, 08:24:15] Card number entered
+[2/1/2026, 08:24:15] Expiration month/year selectors detected
+[2/1/2026, 08:24:15] Expiration month selected: 10
+[2/1/2026, 08:24:15] Expiration year selected: 2026
+[2/1/2026, 08:24:15] Attempting to locate CVV field
+[2/1/2026, 08:24:15] CVV field found using selector: #ccCVV
+[2/1/2026, 08:24:15] CVV entered successfully
+[2/1/2026, 08:24:15] Payment details filled successfully
+[2/1/2026, 08:24:15] Attempting to place order
+[2/1/2026, 08:24:15] Place Order button is visible
+[2/1/2026, 08:24:15] Place Order button is enabled
+[2/1/2026, 08:24:15] Place Order button clicked
+[2/1/2026, 08:24:15] Order placed and page reached network idle
+[2/1/2026, 08:24:15] Order Confirmation Page object initialized
+[2/1/2026, 08:24:15] Waiting for success URL: https://shop.polymer-project.org/checkout/success
+[2/1/2026, 08:24:16] Success URL loaded
+[2/1/2026, 08:24:16] Validating order success message
+[2/1/2026, 08:24:16] Order success message validated successfully
+[2/1/2026, 08:24:16] Taking order confirmation screenshot
+[2/1/2026, 08:24:16] Order confirmation screenshot captured
+[2/1/2026, 08:24:17] Starting test for product: Basic Google T-Shirt
+[2/1/2026, 08:24:17] Homepage object initialized
+[2/1/2026, 08:24:17] Navigating to URL: https://shop.polymer-project.org/
+[2/1/2026, 08:24:19] Homepage loaded successfully
+[2/1/2026, 08:24:19] Validating homepage SHOP text visibility
+[2/1/2026, 08:24:19] Homepage validation result: true
+[2/1/2026, 08:24:19] Waiting for Men’s T-Shirts link to be visible
+[2/1/2026, 08:24:19] Clicking on Men’s T-Shirts
+[2/1/2026, 08:24:20] Men’s T-Shirts page loaded (network idle)
+[2/1/2026, 08:24:20] Productpage object initialized
+[2/1/2026, 08:24:20] Fetching product titles from product listing page
+[2/1/2026, 08:24:20] Number of products found: 0
+[2/1/2026, 08:24:20] Waiting for product detail page to load
+[2/1/2026, 08:24:22] Validating product detail page URL

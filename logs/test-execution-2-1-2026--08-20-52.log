@@ -1,0 +1,121 @@
+=== Test Execution Started (IST) ===
+[2/1/2026, 08:20:54] Homepage object initialized
+[2/1/2026, 08:20:54] Navigating to URL: https://shop.polymer-project.org/
+[2/1/2026, 08:20:55] Homepage loaded successfully
+[2/1/2026, 08:20:55] Validating homepage SHOP text visibility
+[2/1/2026, 08:20:55] Homepage validation result: true
+[2/1/2026, 08:20:55] Waiting for Men’s T-Shirts link to be visible
+[2/1/2026, 08:20:55] Clicking on Men’s T-Shirts
+[2/1/2026, 08:20:58] Men’s T-Shirts page loaded (network idle)
+[2/1/2026, 08:20:58] Productpage object initialized
+[2/1/2026, 08:20:58] Fetching product titles from product listing page
+[2/1/2026, 08:20:58] Number of products found: 40
+[2/1/2026, 08:20:58] Checking product: YouTube Organic Cotton T-Shirt - Grey
+[2/1/2026, 08:20:58] Checking product: Inbox - Subtle Actions T-Shirt
+[2/1/2026, 08:20:58] Checking product: Adult Android Superhero T-Shirt
+[2/1/2026, 08:20:58] Checking product: Men's Vintage Heather T-Shirt
+[2/1/2026, 08:20:58] Checking product: Basic Black T-Shirt
+[2/1/2026, 08:20:58] Checking product: Local Guides T-Shirt
+[2/1/2026, 08:20:58] Checking product: Go Gopher T-Shirt in Teal
+[2/1/2026, 08:20:58] Checking product: Android Ringspun T-Shirt - Green
+[2/1/2026, 08:20:58] Checking product: Organic Cotton Android walking with dog T-shirt
+[2/1/2026, 08:20:58] Checking product: Organic Cotton T-Shirt - Red
+[2/1/2026, 08:20:58] Checking product: Unisex Gmail T-Shirt
+[2/1/2026, 08:20:58] Checking product: Android Soccer T-Shirt
+[2/1/2026, 08:20:58] Target product matched: Android Soccer T-Shirt
+[2/1/2026, 08:20:58] Clicked on product: Android Soccer T-Shirt
+[2/1/2026, 08:20:58] Waiting for product detail page to load
+[2/1/2026, 08:21:00] Validating product detail page URL
+[2/1/2026, 08:21:00] Product detail page validation successful
+[2/1/2026, 08:21:01] Orderdetails & Payment Page object initialized
+[2/1/2026, 08:21:01] Filling checkout details
+[2/1/2026, 08:21:01] Email entered: JohnDoe@yahoo.com
+[2/1/2026, 08:21:01] Contact entered: 1234567890
+[2/1/2026, 08:21:01] Shipping address entered
+[2/1/2026, 08:21:01] City entered: Springfield
+[2/1/2026, 08:21:01] State entered: IL
+[2/1/2026, 08:21:01] ZIP entered: 62701
+[2/1/2026, 08:21:01] Checkout details filled successfully
+[2/1/2026, 08:21:01] Filling payment details
+[2/1/2026, 08:21:01] Cardholder name entered: John Doe
+[2/1/2026, 08:21:01] Card number entered
+[2/1/2026, 08:21:01] Expiration month/year selectors detected
+[2/1/2026, 08:21:01] Expiration month selected: 10
+[2/1/2026, 08:21:01] Expiration year selected: 2026
+[2/1/2026, 08:21:01] Attempting to locate CVV field
+[2/1/2026, 08:21:01] CVV field found using selector: #ccCVV
+[2/1/2026, 08:21:01] CVV entered successfully
+[2/1/2026, 08:21:01] Payment details filled successfully
+[2/1/2026, 08:21:01] Attempting to place order
+[2/1/2026, 08:21:01] Place Order button is visible
+[2/1/2026, 08:21:01] Place Order button is enabled
+[2/1/2026, 08:21:01] Place Order button clicked
+[2/1/2026, 08:21:01] Order placed and page reached network idle
+[2/1/2026, 08:21:01] Order Confirmation Page object initialized
+[2/1/2026, 08:21:01] Waiting for success URL: https://shop.polymer-project.org/checkout/success
+[2/1/2026, 08:21:02] Success URL loaded
+[2/1/2026, 08:21:02] Validating order success message
+[2/1/2026, 08:21:02] Order success message validated successfully
+[2/1/2026, 08:21:02] Taking order confirmation screenshot
+[2/1/2026, 08:21:02] Order confirmation screenshot captured
+
+[2/1/2026, 08:21:03] Homepage object initialized
+[2/1/2026, 08:21:03] Navigating to URL: https://shop.polymer-project.org/
+[2/1/2026, 08:21:04] Homepage loaded successfully
+[2/1/2026, 08:21:04] Validating homepage SHOP text visibility
+[2/1/2026, 08:21:04] Homepage validation result: true
+[2/1/2026, 08:21:04] Waiting for Men’s T-Shirts link to be visible
+[2/1/2026, 08:21:04] Clicking on Men’s T-Shirts
+[2/1/2026, 08:21:06] Men’s T-Shirts page loaded (network idle)
+[2/1/2026, 08:21:06] Productpage object initialized
+[2/1/2026, 08:21:06] Fetching product titles from product listing page
+[2/1/2026, 08:21:06] Number of products found: 40
+[2/1/2026, 08:21:06] Checking product: YouTube Organic Cotton T-Shirt - Grey
+[2/1/2026, 08:21:06] Checking product: Inbox - Subtle Actions T-Shirt
+[2/1/2026, 08:21:06] Checking product: Adult Android Superhero T-Shirt
+[2/1/2026, 08:21:06] Checking product: Men's Vintage Heather T-Shirt
+[2/1/2026, 08:21:06] Checking product: Basic Black T-Shirt
+[2/1/2026, 08:21:06] Checking product: Local Guides T-Shirt
+[2/1/2026, 08:21:06] Checking product: Go Gopher T-Shirt in Teal
+[2/1/2026, 08:21:06] Checking product: Android Ringspun T-Shirt - Green
+[2/1/2026, 08:21:06] Checking product: Organic Cotton Android walking with dog T-shirt
+[2/1/2026, 08:21:06] Checking product: Organic Cotton T-Shirt - Red
+[2/1/2026, 08:21:06] Checking product: Unisex Gmail T-Shirt
+[2/1/2026, 08:21:06] Checking product: Android Soccer T-Shirt
+[2/1/2026, 08:21:06] Checking product: Basic Google T-Shirt
+[2/1/2026, 08:21:06] Target product matched: Basic Google T-Shirt
+[2/1/2026, 08:21:06] Clicked on product: Basic Google T-Shirt
+[2/1/2026, 08:21:06] Waiting for product detail page to load
+[2/1/2026, 08:21:08] Validating product detail page URL
+[2/1/2026, 08:21:08] Product detail page validation successful
+[2/1/2026, 08:21:09] Orderdetails & Payment Page object initialized
+[2/1/2026, 08:21:09] Filling checkout details
+[2/1/2026, 08:21:09] Email entered: JohnDoe@yahoo.com
+[2/1/2026, 08:21:09] Contact entered: 1234567890
+[2/1/2026, 08:21:09] Shipping address entered
+[2/1/2026, 08:21:09] City entered: Springfield
+[2/1/2026, 08:21:09] State entered: IL
+[2/1/2026, 08:21:09] ZIP entered: 62701
+[2/1/2026, 08:21:09] Checkout details filled successfully
+[2/1/2026, 08:21:09] Filling payment details
+[2/1/2026, 08:21:09] Cardholder name entered: John Doe
+[2/1/2026, 08:21:09] Card number entered
+[2/1/2026, 08:21:09] Expiration month/year selectors detected
+[2/1/2026, 08:21:09] Expiration month selected: 10
+[2/1/2026, 08:21:09] Expiration year selected: 2026
+[2/1/2026, 08:21:09] Attempting to locate CVV field
+[2/1/2026, 08:21:09] CVV field found using selector: #ccCVV
+[2/1/2026, 08:21:09] CVV entered successfully
+[2/1/2026, 08:21:09] Payment details filled successfully
+[2/1/2026, 08:21:09] Attempting to place order
+[2/1/2026, 08:21:09] Place Order button is visible
+[2/1/2026, 08:21:09] Place Order button is enabled
+[2/1/2026, 08:21:09] Place Order button clicked
+[2/1/2026, 08:21:09] Order placed and page reached network idle
+[2/1/2026, 08:21:09] Order Confirmation Page object initialized
+[2/1/2026, 08:21:09] Waiting for success URL: https://shop.polymer-project.org/checkout/success
+[2/1/2026, 08:21:10] Success URL loaded
+[2/1/2026, 08:21:10] Validating order success message
+[2/1/2026, 08:21:10] Order success message validated successfully
+[2/1/2026, 08:21:10] Taking order confirmation screenshot
+[2/1/2026, 08:21:10] Order confirmation screenshot captured

@@ -1,0 +1,73 @@
+=== Test Execution Started (IST) ===
+[2/1/2026, 08:22:28] Homepage object initialized
+[2/1/2026, 08:22:28] Navigating to URL: https://shop.polymer-project.org/
+[2/1/2026, 08:22:29] Homepage loaded successfully
+[2/1/2026, 08:22:29] Validating homepage SHOP text visibility
+[2/1/2026, 08:22:29] Homepage validation result: true
+[2/1/2026, 08:22:29] Waiting for Men’s T-Shirts link to be visible
+[2/1/2026, 08:22:29] Clicking on Men’s T-Shirts
+[2/1/2026, 08:22:32] Men’s T-Shirts page loaded (network idle)
+[2/1/2026, 08:22:32] Productpage object initialized
+[2/1/2026, 08:22:32] Fetching product titles from product listing page
+[2/1/2026, 08:22:32] Number of products found: 40
+[2/1/2026, 08:22:32] Checking product: YouTube Organic Cotton T-Shirt - Grey
+[2/1/2026, 08:22:32] Checking product: Inbox - Subtle Actions T-Shirt
+[2/1/2026, 08:22:32] Checking product: Adult Android Superhero T-Shirt
+[2/1/2026, 08:22:32] Checking product: Men's Vintage Heather T-Shirt
+[2/1/2026, 08:22:32] Checking product: Basic Black T-Shirt
+[2/1/2026, 08:22:32] Checking product: Local Guides T-Shirt
+[2/1/2026, 08:22:32] Checking product: Go Gopher T-Shirt in Teal
+[2/1/2026, 08:22:32] Checking product: Android Ringspun T-Shirt - Green
+[2/1/2026, 08:22:32] Checking product: Organic Cotton Android walking with dog T-shirt
+[2/1/2026, 08:22:32] Checking product: Organic Cotton T-Shirt - Red
+[2/1/2026, 08:22:32] Checking product: Unisex Gmail T-Shirt
+[2/1/2026, 08:22:32] Checking product: Android Soccer T-Shirt
+[2/1/2026, 08:22:32] Target product matched: Android Soccer T-Shirt
+[2/1/2026, 08:22:32] Clicked on product: Android Soccer T-Shirt
+[2/1/2026, 08:22:32] Waiting for product detail page to load
+[2/1/2026, 08:22:34] Validating product detail page URL
+[2/1/2026, 08:22:34] Product detail page validation successful
+[2/1/2026, 08:22:35] Orderdetails & Payment Page object initialized
+[2/1/2026, 08:22:35] Filling checkout details
+[2/1/2026, 08:22:35] Email entered: JohnDoe@yahoo.com
+[2/1/2026, 08:22:35] Contact entered: 1234567890
+[2/1/2026, 08:22:35] Shipping address entered
+[2/1/2026, 08:22:35] City entered: Springfield
+[2/1/2026, 08:22:35] State entered: IL
+[2/1/2026, 08:22:35] ZIP entered: 62701
+[2/1/2026, 08:22:35] Checkout details filled successfully
+[2/1/2026, 08:22:35] Filling payment details
+[2/1/2026, 08:22:35] Cardholder name entered: John Doe
+[2/1/2026, 08:22:35] Card number entered
+[2/1/2026, 08:22:35] Expiration month/year selectors detected
+[2/1/2026, 08:22:35] Expiration month selected: 10
+[2/1/2026, 08:22:35] Expiration year selected: 2026
+[2/1/2026, 08:22:35] Attempting to locate CVV field
+[2/1/2026, 08:22:35] CVV field found using selector: #ccCVV
+[2/1/2026, 08:22:35] CVV entered successfully
+[2/1/2026, 08:22:35] Payment details filled successfully
+[2/1/2026, 08:22:35] Attempting to place order
+[2/1/2026, 08:22:35] Place Order button is visible
+[2/1/2026, 08:22:35] Place Order button is enabled
+[2/1/2026, 08:22:35] Place Order button clicked
+[2/1/2026, 08:22:35] Order placed and page reached network idle
+[2/1/2026, 08:22:35] Order Confirmation Page object initialized
+[2/1/2026, 08:22:35] Waiting for success URL: https://shop.polymer-project.org/checkout/success
+[2/1/2026, 08:22:36] Success URL loaded
+[2/1/2026, 08:22:36] Validating order success message
+[2/1/2026, 08:22:36] Order success message validated successfully
+[2/1/2026, 08:22:36] Taking order confirmation screenshot
+[2/1/2026, 08:22:36] Order confirmation screenshot captured
+[2/1/2026, 08:22:37] Homepage object initialized
+[2/1/2026, 08:22:37] Navigating to URL: https://shop.polymer-project.org/
+[2/1/2026, 08:22:38] Homepage loaded successfully
+[2/1/2026, 08:22:38] Validating homepage SHOP text visibility
+[2/1/2026, 08:22:38] Homepage validation result: true
+[2/1/2026, 08:22:38] Waiting for Men’s T-Shirts link to be visible
+[2/1/2026, 08:22:38] Clicking on Men’s T-Shirts
+[2/1/2026, 08:22:39] Men’s T-Shirts page loaded (network idle)
+[2/1/2026, 08:22:39] Productpage object initialized
+[2/1/2026, 08:22:39] Fetching product titles from product listing page
+[2/1/2026, 08:22:39] Number of products found: 0
+[2/1/2026, 08:22:39] Waiting for product detail page to load
+[2/1/2026, 08:22:41] Validating product detail page URL
