@@ -1,3 +1,4 @@
+// POMOriginaltest.spec.js
 const { test, expect } = require('@playwright/test');
 const { Homepage } = require('../Pages/One_Homepage');
 const { Productpage } = require('../Pages/Two_Productpage');
