@@ -9,7 +9,7 @@ class Homepage {
         // URL of the ecommerce site
         this.url = "https://shop.polymer-project.org/";
 
-        // Locators
+        // Locators for homepage elements
         this.shopText = this.page.locator(':text-is("SHOP")').first();
         this.mensTshirts = this.page.getByText("Men's T-Shirts").first();
 
@@ -23,7 +23,7 @@ class Homepage {
         log('Homepage loaded successfully');
     }
 
-    // Validate homepage
+    // Validate homepage by checking the visibility of the SHOP text
     async validateHomepage() {
         log('Validating homepage SHOP text visibility');
         const validation = await this.shopText.isVisible();
