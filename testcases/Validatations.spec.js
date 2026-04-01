@@ -130,7 +130,7 @@ test('Cart shows one item after adding a product', async () => {
 
 });
 
-// Quantity Check in the Product Page and Cart page is equal 
+// Quantity Check in the Product Page and Cart page is equal //
 //--------------------------------------------------------- //
 
 test('Quantity Check in Product Page and Cart page', async({ page }) => {
