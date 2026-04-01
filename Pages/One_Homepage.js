@@ -6,7 +6,7 @@ class Homepage {
     constructor(page) {
         this.page = page;
 
-        // URL
+        // URL of the ecommerce site
         this.url = "https://shop.polymer-project.org/";
 
         // Locators

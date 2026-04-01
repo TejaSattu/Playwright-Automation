@@ -1,8 +1,20 @@
+# Allure reports
+allure-results/
+allure-report/
 
-# Playwright
+# Playwright reports
+playwright-report/
+test-results/
+
+# Logs
+logs/
+
+# Screenshots & media
+*.png
+*.webm
+
+# Node modules
 node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
-/playwright/.auth/
+
+# Environment files
+.env
