@@ -23,7 +23,7 @@ class Homepage {
         log('Homepage loaded successfully');
     }
 
-    // Validate homepage
+    // Validate homepage by checking the visibility of the SHOP text
     async validateHomepage() {
         log('Validating homepage SHOP text visibility');
         const validation = await this.shopText.isVisible();
