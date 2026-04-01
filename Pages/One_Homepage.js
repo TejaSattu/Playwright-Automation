@@ -9,7 +9,7 @@ class Homepage {
         // URL of the ecommerce site
         this.url = "https://shop.polymer-project.org/";
 
-        // Locators
+        // Locators for homepage elements
         this.shopText = this.page.locator(':text-is("SHOP")').first();
         this.mensTshirts = this.page.getByText("Men's T-Shirts").first();
 
